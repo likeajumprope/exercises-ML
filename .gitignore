@@ -130,3 +130,4 @@ dmypy.json
 
 # week 3 dev data
 /week_3/dev_data/
+/week_3/nilearn_cache
